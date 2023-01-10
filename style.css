@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap');
+.navbar-brand
+{
+    font-family: 'Cabin', sans-serif;
+}
+
+.display-4
+{
+    font-family: 'Lobster', cursive;
+}
+.display-6
+{
+    font-family: 'Lobster', cursive;
+}
+.my-0
+{
+    font-family: 'Cabin', sans-serif;
+}
+
